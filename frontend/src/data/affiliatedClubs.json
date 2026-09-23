@@ -1,0 +1,824 @@
+[
+  {
+    "state": "KARNATAKA",
+    "regions": [
+      {
+        "name": "CHIKKAMAGALURU / KODAGU",
+        "clubs": [
+          {
+            "name": "COSMOPOLITIAN CLUB (R)",
+            "details": [
+              "Taluk Office Road, Madikeri - 571201",
+              "Ph: 8762258529",
+              "Email: cosmomdk@gmail.com"
+            ]
+          },
+          {
+            "name": "CHIKKABASAPPA CLUB",
+            "details": [
+              "Somwarpet",
+              "Ph: 8276282145"
+            ]
+          },
+          {
+            "name": "KHANDYA PLANTERS CLUB",
+            "details": [
+              "Belase",
+              "Ph: 08262-252290 / 9483465290"
+            ]
+          },
+          {
+            "name": "POINEERS TENNIS CLUB",
+            "details": [
+              "Somwarpet",
+              "Ph: 08276-284500"
+            ]
+          },
+          {
+            "name": "WHISTLING WILLOWS CLUB",
+            "details": [
+              "Kushalnagara",
+              "Contact: 8050238666"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CHITRADURGA",
+        "clubs": [
+          {
+            "name": "CITY INSTITUTE",
+            "details": [
+              "Chitradurga",
+              "Ph: 9538653270"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "DAVANAGERE",
+        "clubs": [
+          {
+            "name": "OFFICERS CLUB",
+            "details": [
+              "Davanagere",
+              "Ph: 08192-223520"
+            ]
+          },
+          {
+            "name": "THE DAVANAGERE CLUB",
+            "details": [
+              "Davanagere",
+              "Ph: 08192-250591 / 9844139488"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "GULBARGA / BIDAR / VIJAYAPUR",
+        "clubs": [
+          {
+            "name": "ASHODEV RESIDENCY CLUB",
+            "details": [
+              "Bidar",
+              "Contact: 0876361888 / 9482545670"
+            ]
+          },
+          {
+            "name": "GULBARGA CLUB",
+            "details": [
+              "Gulbarga",
+              "Ph: 08472-262962 / 9980623484"
+            ]
+          },
+          {
+            "name": "GULBARGA ENGINEERS FAMILY CLUB",
+            "details": [
+              "Gulbarga",
+              "Ph: 9036668656"
+            ]
+          },
+          {
+            "name": "SPOORTI CLUB",
+            "details": [
+              "Vijayapur",
+              "Ph: 6362392878"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "HASSAN",
+        "clubs": [
+          {
+            "name": "BELUR PLANTERS CLUB",
+            "details": [
+              "Belur",
+              "Contact: 9535515161"
+            ]
+          },
+          {
+            "name": "CITY CLUB",
+            "details": [
+              "Channrayapattana",
+              "Ph: 9343585717"
+            ]
+          },
+          {
+            "name": "COSMOPOLITAN SPORTS CLUB",
+            "details": [
+              "Sakaleshpura",
+              "Ph: 08173-245227 / 8152044049"
+            ]
+          },
+          {
+            "name": "PAVANPUTRA SPORTS & CULTURAL CLUB",
+            "details": [
+              "Hassan",
+              "Contact: 8296275700"
+            ]
+          },
+          {
+            "name": "PEARLS CLUB",
+            "details": [
+              "Kadur",
+              "Ph: 08267-214042"
+            ]
+          },
+          {
+            "name": "PLANTERS CLUB",
+            "details": [
+              "Hanbal",
+              "Ph: 08173-240923 / 7204793237"
+            ]
+          },
+          {
+            "name": "PLANTERS CLUB",
+            "details": [
+              "Arehally",
+              "Contact: 08177-21896 / 9964612993"
+            ]
+          },
+          {
+            "name": "THE HASSAN CLUB",
+            "details": [
+              "Hassan",
+              "Ph: 08172-268557"
+            ]
+          },
+          {
+            "name": "THE HERITAGE",
+            "details": [
+              "Hassan",
+              "Ph: 08172-257468 / 256810"
+            ]
+          },
+          {
+            "name": "THE WOODS SPORTS CLUB",
+            "details": [
+              "Sakaleshpura",
+              "Ph: 9844368443 / 984546666"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "HUBLI-DHARWAD",
+        "clubs": [
+          {
+            "name": "COTTON COUNTRY & RESORTS",
+            "details": [
+              "Hubli",
+              "Ph: 0836-2335799 / 9243264099"
+            ]
+          },
+          {
+            "name": "HUBLI GYMKHANA CLUB",
+            "details": [
+              "Hubli",
+              "Ph: 0836-2366685 / 2362798"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MANDYA",
+        "clubs": [
+          {
+            "name": "MADDUR KREEDA BALAGA",
+            "details": [
+              "Maddur",
+              "Ph: 8105015369"
+            ]
+          },
+          {
+            "name": "SPORTS CLUB",
+            "details": [
+              "Mandya",
+              "Ph: 08232-225079"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MYSORE",
+        "clubs": [
+          {
+            "name": "COSMOPOLITAN CLUB",
+            "details": [
+              "Mysore",
+              "Contact: 0821-2422355 / 2423881"
+            ]
+          },
+          {
+            "name": "GELEYARA BALAGA R",
+            "details": [
+              "Narasimharajapura",
+              "Ph: 08266-220225"
+            ]
+          },
+          {
+            "name": "POWER FRIENDS CLUB",
+            "details": [
+              "Mysore",
+              "Ph: 8618820545 / 8950071715"
+            ]
+          },
+          {
+            "name": "SIDDARTHA SPORTS CLUB",
+            "details": [
+              "Mysore",
+              "Ph: 0821-2471832 / 7942700890"
+            ]
+          },
+          {
+            "name": "THE HERITAGE CLUB",
+            "details": [
+              "Mysore",
+              "Contact: 0821-2412377 / 2974377"
+            ]
+          },
+          {
+            "name": "VIJAYANAGARA SPORTS CLUB",
+            "details": [
+              "Mysore",
+              "Ph: 0821-2514823 / 8971511032"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "RAMANAGARA",
+        "clubs": [
+          {
+            "name": "TENE SPORTS & CULTURAL CLUB",
+            "details": [
+              "Ramanagara",
+              "Ph: 9916774623 / 6361379391"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SHIVAMOGGA",
+        "clubs": [
+          {
+            "name": "BHADRA SPORTS CLUB",
+            "details": [
+              "Balehonnur",
+              "Contact: 9591844405"
+            ]
+          },
+          {
+            "name": "COSMO CLUB",
+            "details": [
+              "Shivamogga",
+              "Contact: 9448023477"
+            ]
+          },
+          {
+            "name": "MALNAD CLUB",
+            "details": [
+              "Thirthalli",
+              "Ph: 08181-820220 / 828220"
+            ]
+          },
+          {
+            "name": "ROVERS CLUB (R)",
+            "details": [
+              "Shivamogga",
+              "Ph: 08182-223938 / 695604"
+            ]
+          },
+          {
+            "name": "SHIMOGA CITY CLUB (R)",
+            "details": [
+              "Shivamogga",
+              "Ph: 08182-222279"
+            ]
+          },
+          {
+            "name": "SHIMOGA COUNTRY CLUB",
+            "details": [
+              "Shivamogga",
+              "Ph: 08182-475561 / 8088577619"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TUMKUR",
+        "clubs": [
+          {
+            "name": "COSMOPOLITAN CLUB",
+            "details": [
+              "Tiptur",
+              "Ph: 08134-251140"
+            ]
+          },
+          {
+            "name": "TUMKUR CLUB",
+            "details": [
+              "Tumkur",
+              "Ph: 0816-2278366"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "UDUPI / MANGALORE",
+        "clubs": [
+          {
+            "name": "CLUB MERIDIAN",
+            "details": [
+              "Kundapur",
+              "Ph: 7022636666"
+            ]
+          },
+          {
+            "name": "THE PUTTUR CLUB",
+            "details": [
+              "Puttur",
+              "Ph: 9448483717 / 7204783717"
+            ]
+          },
+          {
+            "name": "VALLEY VIEW COUNTY CLUB",
+            "details": [
+              "Udupi",
+              "Contact: 8861325186"
+            ]
+          },
+          {
+            "name": "WEST IND COUNTRY CLUB",
+            "details": [
+              "Manipal",
+              "Ph: 8722215473 / 9916290354"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "state": "ANDHRA PRADESH",
+    "clubs": [
+      {
+        "name": "THE ANANTPUR CLUB",
+        "details": [
+          "Anantapuram",
+          "Ph: 08554-36374"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "ASSAM",
+    "clubs": [
+      {
+        "name": "CLUB TRANSCEND",
+        "details": [
+          "Guwahati",
+          "Ph: 600011101"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "DELHI",
+    "clubs": [
+      {
+        "name": "EXECUTIVE CLUB",
+        "details": [
+          "Delhi",
+          "Ph: 011-26654444 / 9582809515"
+        ]
+      },
+      {
+        "name": "JANAKPURI CLUB",
+        "details": [
+          "Delhi",
+          "Ph: 011-25505353 / 255052306"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "GOA",
+    "clubs": [
+      {
+        "name": "GHYMKHANA CLUB",
+        "details": [
+          "Sirvoi, Goa",
+          "Ph: 9380132207"
+        ]
+      },
+      {
+        "name": "NEWERA GOA GYMKHANA CLUB",
+        "details": [
+          "South Goa",
+          "Ph: 483821479"
+        ]
+      },
+      {
+        "name": "WOODBOURNE COUNTRY CLUB",
+        "details": [
+          "Goa",
+          "Ph: 7385736704 / 8799907123"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "GUJARAT",
+    "clubs": [
+      {
+        "name": "PIYUSH PALACE CLUB",
+        "details": [
+          "Kheda",
+          "Ph: 9974028864 / 9727722082"
+        ]
+      },
+      {
+        "name": "SAVVY SWARAAJ SPORTS CLUB",
+        "details": [
+          "Ahmedabad",
+          "Ph: 07940395121 / 8980088855"
+        ]
+      },
+      {
+        "name": "SUN CITY CLUB",
+        "details": [
+          "Vadodara",
+          "Ph: 8141414567"
+        ]
+      },
+      {
+        "name": "THE ORIENT CLUB",
+        "details": [
+          "Ahmedabad",
+          "Ph: 9712445688"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "HIMACHAL PRADESH",
+    "clubs": [
+      {
+        "name": "CHESTER HILLS CLUB",
+        "details": [
+          "Solan",
+          "Ph: 9816034003"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "KERALA",
+    "clubs": [
+      {
+        "name": "COCHIN GYMKHANA",
+        "details": [
+          "Cochin",
+          "Ph: 0484-4021217 / 2304148"
+        ]
+      },
+      {
+        "name": "COSMO CLUB",
+        "details": [
+          "Wayanad",
+          "Ph: 94472039"
+        ]
+      },
+      {
+        "name": "ENGINEERS CLUB",
+        "details": [
+          "Cochin",
+          "Ph: 0484-2808792 / 7561033201"
+        ]
+      },
+      {
+        "name": "KOTHAMANGALAM CLUB",
+        "details": [
+          "Ernakulam",
+          "Contact: 914852862001 / 7561033201"
+        ]
+      },
+      {
+        "name": "MADHAVARAJ CLUB",
+        "details": [
+          "Palakkad",
+          "Ph: 0491-2522706 / 2525354"
+        ]
+      },
+      {
+        "name": "MANNAM MEMORIAL NATIONAL CLUB",
+        "details": [
+          "Thiruvananthapuram",
+          "Ph: 0471-233811 / 2333599"
+        ]
+      },
+      {
+        "name": "PERIYAR CLUB",
+        "details": [
+          "Ernakulam, Aluva",
+          "Ph: 0484-2606963 / 9400589963"
+        ]
+      },
+      {
+        "name": "RAMAVARAMA DISTRICT CLUB",
+        "details": [
+          "Alappuzha",
+          "Contact: 0477-2251436 / 2238544"
+        ]
+      },
+      {
+        "name": "SRI MULAM CLUB",
+        "details": [
+          "Thiruvananthapuram",
+          "Contact: 0471-2722980 / 2723008"
+        ]
+      },
+      {
+        "name": "THE ATTINGAL CLUB",
+        "details": [
+          "Thiruvananthapuram",
+          "Ph: 9447085157"
+        ]
+      },
+      {
+        "name": "THE COSMOPOLITAN CLUB",
+        "details": [
+          "Manjeri, Malappuram",
+          "Ph: 0483-2766843"
+        ]
+      },
+      {
+        "name": "THE MALABAR CLUB",
+        "details": [
+          "Palakkad",
+          "Ph: 9847929277"
+        ]
+      },
+      {
+        "name": "TRICHUR TENNIS TRUST",
+        "details": [
+          "Puzhakkal",
+          "Ph: 0487-2382036 / 994655889"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "MAHARASHTRA",
+    "clubs": [
+      {
+        "name": "AURANGABAD GYMKHANA CLUB",
+        "details": [
+          "Aurangabad",
+          "Ph: 0240-2489865 / 9783052306"
+        ]
+      },
+      {
+        "name": "DADAR CLUB",
+        "details": [
+          "Dadar, Mumbai",
+          "Ph: 022-24154282 / 9930032973"
+        ]
+      },
+      {
+        "name": "DECCAN GYMKHANA",
+        "details": [
+          "Pune",
+          "Ph: 022-25675994 / 9370077144"
+        ]
+      },
+      {
+        "name": "MALPANI CLUB",
+        "details": [
+          "Sangamner",
+          "Ph: 9881246144"
+        ]
+      },
+      {
+        "name": "MIA CENTRE FOR SPORTS & RECREATION",
+        "details": [
+          "Nagpur",
+          "Ph: 07104-297181"
+        ]
+      },
+      {
+        "name": "NASIKLUB",
+        "details": [
+          "Nasik",
+          "Ph: 0253-2411254 / 7499157745"
+        ]
+      },
+      {
+        "name": "THE BLUE ROOF CLUB",
+        "details": [
+          "Thane",
+          "Ph: 8070655001"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "PONDICHERRY",
+    "clubs": [
+      {
+        "name": "CERCLE DE PONDECHERRY",
+        "details": [
+          "Pondicherry",
+          "Ph: 8190914023"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "RAJASTHAN",
+    "clubs": [
+      {
+        "name": "GOLDEN CITY CLUB",
+        "details": [
+          "Jaisalmer",
+          "Ph: 9928128293 / 8696891200"
+        ]
+      },
+      {
+        "name": "JAISAL CLUB",
+        "details": [
+          "Jaisalmer",
+          "Ph: 02992-55555 / 9784311100"
+        ]
+      },
+      {
+        "name": "JEY KRISHNA CLUB",
+        "details": [
+          "Alwar",
+          "Ph: 9799997956"
+        ]
+      },
+      {
+        "name": "JODHAPUR CLUB",
+        "details": [
+          "Jodhpur",
+          "Ph: 91-291-261555"
+        ]
+      },
+      {
+        "name": "SADUL CLUB",
+        "details": [
+          "Bikaner",
+          "Ph: 8000629865"
+        ]
+      },
+      {
+        "name": "THE CAMEL CLUB",
+        "details": [
+          "Jaisalmer",
+          "Ph: 8003406847"
+        ]
+      },
+      {
+        "name": "UPACA CLUB",
+        "details": [
+          "Abu Road",
+          "Ph: 022-28878000 / 321985139"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "TAMILNADU",
+    "clubs": [
+      {
+        "name": "GUDALUR COSMPOLITAN CLUB",
+        "details": [
+          "Nilgiris",
+          "Contact: 8903561842"
+        ]
+      },
+      {
+        "name": "MADURAI UNION CLUB",
+        "details": [
+          "Madurai",
+          "Ph: 0452-2530105"
+        ]
+      },
+      {
+        "name": "NANI'S NOOK",
+        "details": [
+          "Nilgiris",
+          "Contact: 9886672582 / 888982582"
+        ]
+      },
+      {
+        "name": "THE KERALA CLUB",
+        "details": [
+          "Coimbatore",
+          "Ph: 0422-2216231 / 2215178"
+        ]
+      },
+      {
+        "name": "THE PRESIDENCY CLUB",
+        "details": [
+          "Ooty",
+          "Ph: 0423-2452310 / 9698966843"
+        ]
+      },
+      {
+        "name": "WINDSOR CLUB",
+        "details": [
+          "Salem",
+          "Ph: 0427-4067600"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "TELENGANA",
+    "clubs": [
+      {
+        "name": "CHIRAAN FORT CLUB",
+        "details": [
+          "Hyderabad",
+          "Ph: 040-39841100 / 39841199"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "UTTAR PRADESH",
+    "clubs": [
+      {
+        "name": "AGRA CLUB",
+        "details": [
+          "Agra",
+          "Ph: 9412261606"
+        ]
+      },
+      {
+        "name": "CITY CLUB",
+        "details": [
+          "Kanpur",
+          "Ph: 9336275136"
+        ]
+      },
+      {
+        "name": "SHRINE CLUB",
+        "details": [
+          "Vrindhavan",
+          "Ph: 07906281186"
+        ]
+      }
+    ]
+  },
+  {
+    "state": "WEST BENGAL",
+    "clubs": [
+      {
+        "name": "THE CIRCLE CLUB",
+        "details": [
+          "Kolkata",
+          "Ph: 9836789484"
+        ]
+      },
+      {
+        "name": "THE SPRING CLUB",
+        "details": [
+          "Kolkata",
+          "Ph: 9836900125"
+        ]
+      },
+      {
+        "name": "THE SPACE CIRCLE",
+        "details": [
+          "Kolkata",
+          "Ph: 8017220000"
+        ]
+      }
+    ]
+  }
+]
